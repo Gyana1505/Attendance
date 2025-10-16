@@ -21,7 +21,7 @@ This is a simple web frontend for an Employee Attendance System using the provid
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript
+- React js,tailwind css
 - Fetch API for HTTP requests
 -MongoDb (use your own mongo url)
 - LocalStorage for token management
